@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/opt/dwm-distrotube-git'
+let g:netrw_dirhist_3='/opt/dwmblocks-distrotube-git'
+let g:netrw_dirhist_2='/home/psihoz/.local/bin/statusbar'
+let g:netrw_dirhist_1='/opt/dwm-distrotube-git'
+let g:netrw_dirhist_0='/home/psihoz/.local/bin/statusbar'
+let g:netrw_dirhist_9='/home/psihoz/.local/bin'
+let g:netrw_dirhist_8='/home/psihoz/dwmblocks/blocks'
+let g:netrw_dirhist_7='/etc/X11'
+let g:netrw_dirhist_6='/etc/X11/xorg.conf.d'
+let g:netrw_dirhist_5='/home/psihoz/.local/src/slock-blur'
