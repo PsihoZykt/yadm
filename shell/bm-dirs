@@ -1,0 +1,16 @@
+cac	${XDG_CACHE_HOME:-$HOME/.cache}              # Folder with cache
+cf	${XDG_CONFIG_HOME:-$HOME/.config}            # Folder with configs
+D	${XDG_DOWNLOAD_DIR:-$HOME/HDD/Downloads_HDD} # HDD downloads folder
+d	${XDG_DOCUMENTS_DIR:-$HOME/HDD/Documents}    # HDD Documents folder
+dt	${XDG_DATA_HOME:-$HOME/.local/share}         # .local/share folder
+h	$HOME                                        # Home
+m	${XDG_MUSIC_DIR:-$HOME/HDD/music}            # HDD music folder
+mn	/mnt                                         # /mnt filder
+pp	${XDG_PICTURES_DIR:-$HOME/HDD/Pictures}      # HDD puctures folder
+sc	$HOME/.local/bin                             # .local/bin folder
+src	$HOME/.local/src                             # .local/src folder
+b	$HOME/HDD/Documents/books                    # HDD books filder
+diary	$HOME/vimwiki/diary                          # Diary folder
+vv	${XDG_VIDEOS_DIR:-$HOME/HDD/Videos}          # HDD Videos folder
+cshell $HOME/.config/shell                      #Folder with aliases
+cdwm $HOME/.local/src/dwm                       #DWM sources folded
