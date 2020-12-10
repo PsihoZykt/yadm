@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/psihoz/.local/share/wallpapers/back1.png' 
